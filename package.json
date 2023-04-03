@@ -146,7 +146,7 @@
     "@storybook/core-common": "^6.5.16",
     "@storybook/core-server": "^7.0.0-beta.43",
     "@storybook/node-logger": "^6.5.16",
-    "@storybook/react": "7.0.0-beta.44",
+    "@storybook/react": "7.0.0",
     "@storybook/react-webpack5": "^7.0.0-beta.44",
     "@storybook/testing-react": "^2.0.0-next.0",
     "@svgr/rollup": "^6.1.2",
