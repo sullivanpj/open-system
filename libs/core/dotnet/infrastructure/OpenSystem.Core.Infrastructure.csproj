@@ -7,7 +7,7 @@
     <PackageReference Include="AspNetCore.HealthChecks.UI" Version="7.0.0-rc2.7" />
     <PackageReference Include="AspNetCore.HealthChecks.UI.Client" Version="6.0.5" />
     <PackageReference Include="AutoMapper.Collection" Version="9.0.0" />
-    <PackageReference Include="AutoMapper.Extensions.ExpressionMapping" Version="6.0.3" />
+    <PackageReference Include="AutoMapper.Extensions.ExpressionMapping" Version="6.0.4" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
     <PackageReference Include="Consul" Version="1.6.10.8" />
     <PackageReference Include="CsvHelper" Version="30.0.1" />
