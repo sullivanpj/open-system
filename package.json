@@ -157,7 +157,7 @@
     "@swc/helpers": "~0.4.11",
     "@swc/jest": "0.2.20",
     "@tailwindcss/forms": "^0.5.3",
-    "@testing-library/react": "13.4.0",
+    "@testing-library/react": "14.0.0",
     "@theunderscorer/nx-semantic-release": "^1.14.0",
     "@types/jest": "28.1.1",
     "@types/node": "18.11.9",
