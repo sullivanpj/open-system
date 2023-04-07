@@ -129,7 +129,7 @@
     "@nrwl/web": "15.9.2",
     "@nrwl/webpack": "15.6.3",
     "@nrwl/workspace": "15.9.2",
-    "@nx-dotnet/core": "^1.16.3",
+    "@nx-dotnet/core": "^1.21.1",
     "@nx-dotnet/dotnet": "^1.16.3",
     "@nx-plus/docusaurus": "^14.1.0",
     "@nx-tools/nx-container": "^4.0.3",
