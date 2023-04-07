@@ -148,7 +148,7 @@
     "@storybook/node-logger": "^6.5.16",
     "@storybook/react": "7.0.2",
     "@storybook/react-webpack5": "^7.0.0",
-    "@storybook/testing-react": "^2.0.0-next.0",
+    "@storybook/testing-react": "^2.0.0",
     "@svgr/rollup": "^7.0.0",
     "@svgr/webpack": "^7.0.0",
     "@swc-node/register": "^1.5.4",
