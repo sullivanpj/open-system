@@ -25,7 +25,7 @@
 
   <ItemGroup>
     <PackageReference Include="Akka.Cluster.Hosting" Version="1.5.2" />
-    <PackageReference Include="Akka.Hosting" Version="1.5.1.1" />
+    <PackageReference Include="Akka.Hosting" Version="1.5.2" />
     <PackageReference Include="Akka.Persistence" Version="1.5.1" />
     <PackageReference Include="Akka.Cluster.Sharding" Version="1.5.1" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
