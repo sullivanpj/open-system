@@ -197,7 +197,7 @@
     "inversify": "^6.0.1",
     "is-ci": "^3.0.1",
     "jest": "28.1.1",
-    "jest-cli": "^27.4.5",
+    "jest-cli": "^29.5.0",
     "jest-environment-jsdom": "28.1.1",
     "log4brains": "^1.0.1",
     "mustache": "^4.2.0",
