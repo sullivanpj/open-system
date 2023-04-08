@@ -80,7 +80,7 @@
     "@auth0/nextjs-auth0": "^2.4.0",
     "@docusaurus/core": "^2.3.1",
     "@docusaurus/preset-classic": "^2.3.1",
-    "@heroicons/react": "^2.0.13",
+    "@heroicons/react": "^2.0.16",
     "@js-temporal/polyfill": "^0.4.3",
     "@mdx-js/react": "^2.3.0",
     "@next/font": "^13.3.0",
