@@ -114,7 +114,7 @@
     "@docusaurus/module-type-aliases": "2.4.0",
     "@hookform/devtools": "^4.3.0",
     "@microsoft/api-extractor": "^7.33.6",
-    "@nrwl/cli": "15.6.3",
+    "@nrwl/cli": "15.9.2",
     "@nrwl/cypress": "15.9.2",
     "@nrwl/devkit": "15.6.3",
     "@nrwl/eslint-plugin-nx": "15.9.2",
