@@ -205,7 +205,7 @@
     "next-redux-wrapper": "^8.1.0",
     "next-seo": "^6.0.0",
     "nookies": "^2.5.2",
-    "nx": "15.6.3",
+    "nx": "15.9.2",
     "postcss": "^8.4.21",
     "prettier": "^2.6.2",
     "prettier-plugin-tailwindcss": "^0.2.6",
