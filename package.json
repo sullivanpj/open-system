@@ -111,7 +111,7 @@
     "@babel/preset-typescript": "7.12.13",
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.4.4",
-    "@docusaurus/module-type-aliases": "2.0.0-beta.13",
+    "@docusaurus/module-type-aliases": "2.4.0",
     "@hookform/devtools": "^4.3.0",
     "@microsoft/api-extractor": "^7.33.6",
     "@nrwl/cli": "15.6.3",
