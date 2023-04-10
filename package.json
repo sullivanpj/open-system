@@ -198,7 +198,7 @@
     "is-ci": "^3.0.1",
     "jest": "28.1.1",
     "jest-cli": "^29.5.0",
-    "jest-environment-jsdom": "28.1.1",
+    "jest-environment-jsdom": "29.5.0",
     "log4brains": "^1.0.1",
     "mustache": "^4.2.0",
     "next-intl": "^2.12.0",
