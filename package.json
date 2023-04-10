@@ -98,7 +98,7 @@
     "react-router-dom": "^6.7.0",
     "regenerator-runtime": "0.13.11",
     "rimraf": "^4.4.1",
-    "tslib": "^2.3.0"
+    "tslib": "^2.5.0"
   },
   "devDependencies": {
     "@asyncapi/generator": "^1.9.14",
