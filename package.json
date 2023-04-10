@@ -233,7 +233,7 @@
     "typescript": "~4.8.2",
     "url-loader": "^4.1.1",
     "url-parse": "^1.5.10",
-    "webpack": "^5.75.0",
+    "webpack": "^5.78.0",
     "webpack-merge": "^5.8.0"
   },
   "engines": {
