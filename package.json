@@ -208,7 +208,7 @@
     "nx": "15.9.2",
     "postcss": "^8.4.21",
     "prettier": "^2.6.2",
-    "prettier-plugin-tailwindcss": "^0.2.6",
+    "prettier-plugin-tailwindcss": "^0.2.7",
     "react-pdf-tailwind": "^1.0.1",
     "react-redux": "^8.0.5",
     "react-refresh": "^0.10.0",
