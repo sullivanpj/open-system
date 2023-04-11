@@ -184,7 +184,7 @@
     "docusaurus-theme-search-typesense": "^0.7.0-0",
     "eslint": "~8.38.0",
     "eslint-config-next": "13.1.1",
-    "eslint-config-prettier": "8.1.0",
+    "eslint-config-prettier": "8.8.0",
     "eslint-plugin-cypress": "^2.13.2",
     "eslint-plugin-import": "2.26.0",
     "eslint-plugin-jest": "^27.1.5",
