@@ -167,7 +167,7 @@
     "@types/url-parse": "^1.4.8",
     "@types/uuid": "^9.0.1",
     "@typescript-eslint/eslint-plugin": "^5.36.1",
-    "@typescript-eslint/parser": "^5.36.1",
+    "@typescript-eslint/parser": "^5.58.0",
     "ajv": "^8.12.0",
     "alex": "^11.0.0",
     "all-contributors-cli": "^6.24.0",
