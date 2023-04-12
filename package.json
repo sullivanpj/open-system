@@ -211,7 +211,7 @@
     "prettier-plugin-tailwindcss": "^0.2.7",
     "react-pdf-tailwind": "^1.0.1",
     "react-redux": "^8.0.5",
-    "react-refresh": "^0.10.0",
+    "react-refresh": "^0.14.0",
     "react-test-renderer": "18.2.0",
     "redocusaurus": "^1.4.0",
     "redux-persist": "^6.0.0",
