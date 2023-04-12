@@ -192,7 +192,7 @@
     "eslint-plugin-react": "7.31.11",
     "eslint-plugin-react-hooks": "4.6.0",
     "eslint-plugin-storybook": "^0.6.10",
-    "framer-motion": "^7.6.7",
+    "framer-motion": "^10.11.5",
     "husky": "^8.0.0",
     "inversify": "^6.0.1",
     "is-ci": "^3.0.1",
