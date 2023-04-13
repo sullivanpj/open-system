@@ -222,7 +222,7 @@
     "storybook": "^7.0.3",
     "storybook-addon-swc": "^1.1.9",
     "style-dictionary": "^3.7.2",
-    "style-loader": "^3.3.0",
+    "style-loader": "^3.3.2",
     "stylus": "^0.59.0",
     "stylus-loader": "^7.1.0",
     "svgo": "^3.0.0",
