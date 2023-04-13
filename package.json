@@ -130,7 +130,7 @@
     "@nrwl/webpack": "15.9.2",
     "@nrwl/workspace": "15.9.2",
     "@nx-dotnet/core": "^1.21.1",
-    "@nx-dotnet/dotnet": "^1.16.3",
+    "@nx-dotnet/dotnet": "^1.22.0",
     "@nx-plus/docusaurus": "^14.1.0",
     "@nx-tools/nx-container": "^4.0.3",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.7",
