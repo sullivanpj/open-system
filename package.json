@@ -139,7 +139,7 @@
     "@reduxjs/toolkit": "^1.9.2",
     "@rollup/plugin-url": "^8.0.1",
     "@rtk-query/codegen-openapi": "^1.0.0",
-    "@storybook/addon-a11y": "^7.0.2",
+    "@storybook/addon-a11y": "^7.0.5",
     "@storybook/addon-essentials": "^7.0.5",
     "@storybook/addon-storyshots": "^7.0.2",
     "@storybook/addons": "^7.0.4",
