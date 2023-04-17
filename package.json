@@ -141,7 +141,7 @@
     "@rtk-query/codegen-openapi": "^1.0.0",
     "@storybook/addon-a11y": "^7.0.2",
     "@storybook/addon-essentials": "^7.0.5",
-    "@storybook/addon-storyshots": "^7.0.2",
+    "@storybook/addon-storyshots": "^7.0.5",
     "@storybook/addons": "^7.0.4",
     "@storybook/client-logger": "^6.5.16",
     "@storybook/core-common": "^7.0.5",
