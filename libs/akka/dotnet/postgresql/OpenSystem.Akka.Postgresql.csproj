@@ -25,7 +25,7 @@
     <PackageReference Include="Akka.Persistence.Query" Version="1.5.2" />
     <PackageReference Include="Akka.Persistence.PostgreSql.Hosting" Version="1.5.2" />
     <PackageReference Include="Akka.Persistence.Query.Sql" Version="1.5.2" />
-    <PackageReference Include="Akka.Persistence.Sql.Hosting" Version="1.5.2-beta1" />
+    <PackageReference Include="Akka.Persistence.Sql.Hosting" Version="1.5.2-beta2" />
   </ItemGroup>
 
   <ItemGroup>
