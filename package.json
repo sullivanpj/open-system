@@ -85,7 +85,7 @@
     "@mdx-js/react": "^2.3.0",
     "@next/font": "^13.3.0",
     "clsx": "^1.1.1",
-    "core-js": "^3.6.5",
+    "core-js": "^3.30.1",
     "dotenv": "^16.0.3",
     "inversify-react": "^1.1.0",
     "kafkajs": "^2.2.4",
