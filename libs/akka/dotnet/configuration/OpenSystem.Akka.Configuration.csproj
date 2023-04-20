@@ -19,7 +19,7 @@
     <PackageReference Include="Akka.Cluster.Hosting" Version="1.5.2" />
     <PackageReference Include="Akka.Discovery.Azure" Version="1.5.0" />
     <PackageReference Include="Akka.Discovery.KubernetesApi" Version="1.5.0" />
-    <PackageReference Include="Akka.HealthCheck" Version="1.5.0.1" />
+    <PackageReference Include="Akka.HealthCheck" Version="1.5.2" />
     <PackageReference Include="Akka.Hosting" Version="1.5.2" />
     <PackageReference Include="Akka.Management" Version="1.5.0" />
     <PackageReference Include="Akka.Persistence.Azure" Version="1.5.1" />
