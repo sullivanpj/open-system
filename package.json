@@ -226,7 +226,7 @@
     "rollup-plugin-url": "^3.0.1",
     "server-only": "^0.0.1",
     "storybook": "^7.0.6",
-    "storybook-addon-swc": "^1.1.9",
+    "storybook-addon-swc": "^1.2.0",
     "style-dictionary": "^3.7.2",
     "style-loader": "^3.3.2",
     "stylus": "^0.59.0",
