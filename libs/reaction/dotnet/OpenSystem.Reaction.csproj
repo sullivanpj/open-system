@@ -33,7 +33,7 @@
     <PackageReference Include="Akka.Persistence.PostgreSql" Version="1.5.2" />
     <PackageReference Include="Akka.Persistence.Query" Version="1.5.2" />
     <PackageReference Include="Akka.Persistence.Query.Sql" Version="1.5.2" />
-    <PackageReference Include="Akka.Persistence.Sql" Version="1.5.2-beta2" />
+    <PackageReference Include="Akka.Persistence.Sql" Version="1.5.2-beta3" />
     <PackageReference Include="Confluent.SchemaRegistry" Version="2.1.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
