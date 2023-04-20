@@ -151,7 +151,7 @@
     "@storybook/client-logger": "^6.5.16",
     "@storybook/core-common": "^7.0.5",
     "@storybook/core-server": "^7.0.2",
-    "@storybook/node-logger": "^7.0.4",
+    "@storybook/node-logger": "^7.0.6",
     "@storybook/react": "7.0.6",
     "@storybook/react-webpack5": "^7.0.0",
     "@storybook/testing-react": "^2.0.0",
