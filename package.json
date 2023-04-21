@@ -128,7 +128,7 @@
     "@nrwl/js": "15.9.2",
     "@nrwl/linter": "15.9.2",
     "@nrwl/next": "15.9.2",
-    "@nrwl/nx-cloud": "15.3.5",
+    "@nrwl/nx-cloud": "16.0.1",
     "@nrwl/react": "15.9.2",
     "@nrwl/rollup": "15.9.2",
     "@nrwl/storybook": "15.9.2",
