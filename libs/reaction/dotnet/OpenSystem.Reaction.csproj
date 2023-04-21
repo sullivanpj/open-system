@@ -31,7 +31,7 @@
     <PackageReference Include="Akka.Persistence" Version="1.5.2" />
     <PackageReference Include="Akka.Cluster.Sharding" Version="1.5.2" />
     <PackageReference Include="Akka.Persistence.PostgreSql" Version="1.5.2" />
-    <PackageReference Include="Akka.Persistence.Query" Version="1.5.2" />
+    <PackageReference Include="Akka.Persistence.Query" Version="1.5.3" />
     <PackageReference Include="Akka.Persistence.Query.Sql" Version="1.5.2" />
     <PackageReference Include="Akka.Persistence.Sql" Version="1.5.2-beta3" />
     <PackageReference Include="Apache.Avro" Version="1.11.1" />
