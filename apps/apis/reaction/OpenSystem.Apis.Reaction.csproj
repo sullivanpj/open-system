@@ -27,7 +27,7 @@
     </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Akka" Version="1.5.2" />
+    <PackageReference Include="Akka" Version="1.5.3" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="7.0.5" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.18.1" />
