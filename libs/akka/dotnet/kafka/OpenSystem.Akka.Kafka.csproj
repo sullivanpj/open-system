@@ -15,7 +15,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Akka.Cluster.Sharding" Version="1.5.2" />
+    <PackageReference Include="Akka.Cluster.Sharding" Version="1.5.3" />
     <PackageReference Include="Akka.Hosting" Version="1.5.2" />
     <PackageReference Include="Akka.Streams.Kafka" Version="1.5.0" />
     <PackageReference Include="Confluent.SchemaRegistry.Serdes.Avro" Version="2.1.0" />
