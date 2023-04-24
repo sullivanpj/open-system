@@ -213,7 +213,7 @@
     "nookies": "^2.5.2",
     "nx": "15.9.2",
     "postcss": "^8.4.23",
-    "prettier": "^2.8.7",
+    "prettier": "^2.8.8",
     "prettier-plugin-tailwindcss": "^0.2.7",
     "react-pdf-tailwind": "^2.1.0",
     "react-redux": "^8.0.5",
