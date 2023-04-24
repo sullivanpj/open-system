@@ -83,7 +83,7 @@
     "@heroicons/react": "^2.0.17",
     "@js-temporal/polyfill": "^0.4.3",
     "@mdx-js/react": "^2.3.0",
-    "@next/font": "^13.3.0",
+    "@next/font": "^13.3.1",
     "@opentelemetry/api": "^1.4.1",
     "@opentelemetry/instrumentation": "^0.38.0",
     "@opentelemetry/resources": "^1.12.0",
