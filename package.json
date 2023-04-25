@@ -191,7 +191,7 @@
     "@types/relay-runtime": "^14.1.10",
     "@types/url-parse": "^1.4.8",
     "@types/uuid": "^9.0.1",
-    "@typescript-eslint/eslint-plugin": "^5.59.0",
+    "@typescript-eslint/eslint-plugin": "^5.59.1",
     "@typescript-eslint/parser": "^5.59.0",
     "ajv": "^8.12.0",
     "alex": "^11.0.0",
