@@ -126,7 +126,7 @@
     "@commitlint/cli": "^17.6.1",
     "@commitlint/config-conventional": "^17.6.1",
     "@docusaurus/module-type-aliases": "2.4.0",
-    "@graphql-codegen/cli": "^3.3.0",
+    "@graphql-codegen/cli": "^3.3.1",
     "@graphql-codegen/schema-ast": "^3.0.1",
     "@graphql-codegen/time": "^4.0.0",
     "@graphql-codegen/typed-document-node": "^4.0.1",
