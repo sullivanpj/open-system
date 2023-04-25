@@ -248,7 +248,7 @@
     "relay-runtime": "^15.0.0",
     "rollup-plugin-url": "^3.0.1",
     "server-only": "^0.0.1",
-    "storybook": "^7.0.6",
+    "storybook": "^7.0.7",
     "storybook-addon-swc": "^1.2.0",
     "style-dictionary": "^3.7.2",
     "style-loader": "^3.3.2",
