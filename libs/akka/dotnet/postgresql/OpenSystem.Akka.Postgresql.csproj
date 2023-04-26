@@ -15,7 +15,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Akka.Hosting" Version="1.5.2" />
+    <PackageReference Include="Akka.Hosting" Version="1.5.4" />
     <PackageReference Include="Akka.Persistence.Hosting" Version="1.5.2" />
     <PackageReference Include="Akka.Persistence" Version="1.5.3" />
     <PackageReference Include="Akka.Persistence.PostgreSql" Version="1.5.3" />
