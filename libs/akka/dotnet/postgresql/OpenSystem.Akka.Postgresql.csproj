@@ -19,7 +19,7 @@
     <PackageReference Include="Akka.Persistence.Hosting" Version="1.5.2" />
     <PackageReference Include="Akka.Persistence" Version="1.5.3" />
     <PackageReference Include="Akka.Persistence.PostgreSql" Version="1.5.4" />
-    <PackageReference Include="Akka.Persistence.Query" Version="1.5.3" />
+    <PackageReference Include="Akka.Persistence.Query" Version="1.5.4" />
     <PackageReference Include="Akka.Persistence.PostgreSql.Hosting" Version="1.5.4" />
     <PackageReference Include="Akka.Persistence.Query.Sql" Version="1.5.4" />
     <PackageReference Include="Microsoft.Bcl.AsyncInterfaces" Version="7.0.0" />
