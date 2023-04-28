@@ -149,7 +149,7 @@
     "@nrwl/react": "16.0.0",
     "@nrwl/rollup": "15.9.2",
     "@nrwl/storybook": "16.0.0",
-    "@nrwl/web": "15.9.2",
+    "@nrwl/web": "16.0.0",
     "@nrwl/webpack": "16.0.0",
     "@nrwl/workspace": "16.0.0",
     "@nx-dotnet/core": "^1.22.0",
