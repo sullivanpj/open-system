@@ -150,7 +150,7 @@
     "@nrwl/rollup": "15.9.2",
     "@nrwl/storybook": "15.9.2",
     "@nrwl/web": "15.9.2",
-    "@nrwl/webpack": "15.9.2",
+    "@nrwl/webpack": "16.0.0",
     "@nrwl/workspace": "16.0.0",
     "@nx-dotnet/core": "^1.22.0",
     "@nx-dotnet/dotnet": "^1.22.0",
