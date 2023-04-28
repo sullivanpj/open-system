@@ -139,7 +139,7 @@
     "@microsoft/api-extractor": "^7.34.4",
     "@nrwl/cli": "15.9.3",
     "@nrwl/cypress": "15.9.2",
-    "@nrwl/devkit": "^15.9.2",
+    "@nrwl/devkit": "^16.0.0",
     "@nrwl/eslint-plugin-nx": "15.9.2",
     "@nrwl/jest": "15.9.2",
     "@nrwl/js": "15.9.2",
