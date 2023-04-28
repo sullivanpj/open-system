@@ -147,7 +147,7 @@
     "@nrwl/next": "16.0.0",
     "@nrwl/nx-cloud": "16.0.4",
     "@nrwl/react": "16.0.0",
-    "@nrwl/rollup": "15.9.2",
+    "@nrwl/rollup": "16.0.0",
     "@nrwl/storybook": "15.9.2",
     "@nrwl/web": "15.9.2",
     "@nrwl/webpack": "16.0.0",
