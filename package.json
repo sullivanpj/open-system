@@ -101,7 +101,7 @@
     "graphql-helix": "^1.13.0",
     "graphql-relay": "^0.10.0",
     "graphql-tag": "^2.12.6",
-    "helios-opentelemetry-sdk": "^1.0.70",
+    "helios-opentelemetry-sdk": "^1.0.71",
     "inversify-react": "^1.1.0",
     "kafkajs": "^2.2.4",
     "next": "^13.4.2",
