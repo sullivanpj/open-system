@@ -84,7 +84,7 @@
     "@envelop/live-query": "^5.0.6",
     "@envelop/opentelemetry": "^4.1.0",
     "@envelop/sentry": "^5.1.1",
-    "@heroicons/react": "^2.0.17",
+    "@heroicons/react": "^2.0.18",
     "@js-temporal/polyfill": "^0.4.3",
     "@mdx-js/react": "^2.3.0",
     "@n1ru4l/push-pull-async-iterable-iterator": "^3.2.0",
