@@ -87,7 +87,7 @@
     "@opentelemetry/instrumentation": "^0.39.1",
     "@opentelemetry/resources": "^1.13.0",
     "@opentelemetry/sdk-trace-node": "^1.12.0",
-    "@opentelemetry/semantic-conventions": "^1.12.0",
+    "@opentelemetry/semantic-conventions": "^1.13.0",
     "clsx": "^1.1.1",
     "core-js": "^3.30.1",
     "dotenv": "^16.0.3",
