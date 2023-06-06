@@ -77,7 +77,7 @@
   },
   "private": true,
   "dependencies": {
-    "@docusaurus/core": "^2.3.1",
+    "@docusaurus/core": "^2.4.1",
     "@docusaurus/preset-classic": "^2.4.1",
     "@heroicons/react": "^2.0.18",
     "@js-temporal/polyfill": "^0.4.3",
