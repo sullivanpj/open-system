@@ -107,7 +107,7 @@
     "redis-om": "^0.4.0-beta.3",
     "regenerator-runtime": "0.13.11",
     "rimraf": "^5.0.0",
-    "tslib": "^2.5.0"
+    "tslib": "^2.5.1"
   },
   "devDependencies": {
     "@asyncapi/generator": "^1.9.18",
