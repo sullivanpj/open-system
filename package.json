@@ -91,7 +91,7 @@
     "clsx": "^1.1.1",
     "core-js": "^3.30.1",
     "dotenv": "^16.0.3",
-    "helios-opentelemetry-sdk": "^1.0.72",
+    "helios-opentelemetry-sdk": "^1.0.75",
     "jotai": "^2.1.0",
     "jotai-molecules": "^1.1.1",
     "lottie-web": "^5.12.0",
