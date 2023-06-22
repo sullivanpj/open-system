@@ -16,7 +16,7 @@
 
   <ItemGroup>
     <PackageReference Include="Akka.Cluster.Sharding" Version="1.5.8" />
-    <PackageReference Include="Akka.Cluster.Tools" Version="1.5.4" />
+    <PackageReference Include="Akka.Cluster.Tools" Version="1.5.8" />
   </ItemGroup>
 
   <ItemGroup>
