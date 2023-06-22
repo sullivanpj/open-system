@@ -29,7 +29,7 @@
     <PackageReference Include="Akka.Cluster.Hosting" Version="1.5.4" />
     <PackageReference Include="Akka.Hosting" Version="1.5.4" />
     <PackageReference Include="Akka.Persistence" Version="1.5.4" />
-    <PackageReference Include="Akka.Cluster.Sharding" Version="1.5.4" />
+    <PackageReference Include="Akka.Cluster.Sharding" Version="1.5.8" />
     <PackageReference Include="Akka.Persistence.PostgreSql" Version="1.5.4.1" />
     <PackageReference Include="Akka.Persistence.Query" Version="1.5.4" />
     <PackageReference Include="Akka.Persistence.Query.Sql" Version="1.5.4" />
