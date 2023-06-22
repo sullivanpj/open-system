@@ -181,7 +181,7 @@
     "@theunderscorer/nx-semantic-release": "^2.3.0",
     "@total-typescript/ts-reset": "^0.4.2",
     "@types/jest": "29.5.2",
-    "@types/node": "18.16.2",
+    "@types/node": "18.16.18",
     "@types/react": "18.2.0",
     "@types/react-dom": "18.2.1",
     "@types/react-router-dom": "5.3.3",
