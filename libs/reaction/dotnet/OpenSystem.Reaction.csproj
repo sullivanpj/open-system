@@ -35,7 +35,7 @@
     <PackageReference Include="Akka.Persistence.Query.Sql" Version="1.5.8" />
     <PackageReference Include="Akka.Persistence.Sql" Version="1.5.2-beta3" />
     <PackageReference Include="Apache.Avro" Version="1.11.1" />
-    <PackageReference Include="Confluent.SchemaRegistry" Version="2.1.0" />
+    <PackageReference Include="Confluent.SchemaRegistry" Version="2.1.1" />
     <PackageReference Include="Confluent.SchemaRegistry.Serdes.Avro" Version="2.1.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
