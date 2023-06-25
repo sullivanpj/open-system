@@ -209,7 +209,7 @@
     "docusaurus-plugin-react-docgen-typescript": "^1.1.0",
     "docusaurus-plugin-typedoc": "^0.19.2",
     "docusaurus-theme-search-typesense": "^0.12.0",
-    "eslint": "~8.39.0",
+    "eslint": "~8.43.0",
     "eslint-config-next": "13.4.7",
     "eslint-config-prettier": "8.8.0",
     "eslint-plugin-cypress": "^2.13.2",
