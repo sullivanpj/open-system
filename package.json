@@ -113,7 +113,7 @@
     "@docusaurus/module-type-aliases": "2.4.1",
     "@docusaurus/preset-classic": "^2.4.1",
     "@hookform/devtools": "^4.3.1",
-    "@mdx-js/react": "1.6.22",
+    "@mdx-js/react": "2.3.0",
     "@nx-dotnet/core": "^1.22.0",
     "@nx-dotnet/dotnet": "^1.22.0",
     "@nx-plus/docusaurus": "^15.0.0-rc.0",
