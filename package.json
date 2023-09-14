@@ -96,7 +96,7 @@
     "@vercel/edge-config": "^0.2.1",
     "@vercel/otel": "^0.3.0",
     "@wundergraph/react-relay": "^0.4.0",
-    "@wundergraph/sdk": "^0.174.0",
+    "@wundergraph/sdk": "^0.175.0",
     "attr-accept": "^2.2.2",
     "bcryptjs": "^2.4.3",
     "clsx": "^1.1.1",
