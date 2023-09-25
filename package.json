@@ -245,7 +245,7 @@
     "cross-env": "^7.0.3",
     "cspell": "^6.31.1",
     "css-loader": "^6.4.0",
-    "cypress": "^12.16.0",
+    "cypress": "^13.0.0",
     "cz-conventional-changelog": "^3.3.0",
     "doctoc": "^2.2.1",
     "dpdm": "^3.13.1",
