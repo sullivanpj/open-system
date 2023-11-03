@@ -156,7 +156,7 @@
     "@commitlint/cli": "^17.7.1",
     "@commitlint/config-conventional": "^17.6.1",
     "@graphql-codegen/add": "^5.0.0",
-    "@graphql-codegen/cli": "^4.0.1",
+    "@graphql-codegen/cli": "^5.0.0",
     "@graphql-codegen/graphql-modules-preset": "^4.0.1",
     "@graphql-codegen/typescript": "^4.0.1",
     "@graphql-codegen/typescript-resolvers": "^4.0.1",
