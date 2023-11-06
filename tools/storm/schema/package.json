@@ -38,23 +38,23 @@
     "@types/vscode": "^1.81.0"
   },
   "dependencies": {
-    "@prisma/client": "^5.2.0",
-    "@vscode/vsce": "^2.20.1",
+    "@prisma/client": "5.2.0",
+    "@vscode/vsce": "2.21.0",
     "chalk": "4.1.0",
     "langium": "1.2.1",
     "langium-cli": "1.2.1",
-    "ora": "^7.0.1",
-    "path": "^0.12.7",
-    "pluralize": "^8.0.0",
+    "ora": "7.0.1",
+    "path": "0.12.7",
+    "pluralize": "8.0.0",
     "prettier": "2.8.8",
-    "semver": "^7.5.4",
-    "ts-morph": "^19.0.0",
-    "ts-pattern": "^5.0.5",
-    "vscode": "^1.1.37",
-    "vscode-jsonrpc": "^8.1.0",
-    "vscode-languageclient": "^8.1.0",
-    "vscode-languageserver": "^8.1.0",
-    "vscode-languageserver-textdocument": "^1.0.8",
-    "vscode-uri": "^3.0.7"
+    "semver": "7.5.4",
+    "ts-morph": "19.0.0",
+    "ts-pattern": "5.0.5",
+    "vscode": "1.1.37",
+    "vscode-jsonrpc": "8.1.0",
+    "vscode-languageclient": "8.1.0",
+    "vscode-languageserver": "8.1.0",
+    "vscode-languageserver-textdocument": "1.0.8",
+    "vscode-uri": "3.0.7"
   }
 }
