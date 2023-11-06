@@ -6,6 +6,6 @@
     "@nxkit/style-dictionary": "^3.0.2"
   },
   "dependencies": {
-    "style-dictionary": "^3.8.0"
+    "style-dictionary": "3.8.0"
   }
 }

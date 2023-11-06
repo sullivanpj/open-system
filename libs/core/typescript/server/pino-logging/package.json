@@ -2,7 +2,7 @@
   "name": "@open-system/core-server-pino-logging",
   "version": "0.0.1",
   "dependencies": {
-    "pino": "^8.14.2",
-    "pino-pretty": "^10.2.0"
+    "pino": "8.15.1",
+    "pino-pretty": "10.2.0"
   }
 }

@@ -2,7 +2,7 @@
   "name": "@open-system/tools-storm-runtime",
   "version": "0.0.1",
   "dependencies": {
-    "decimal.js": "^10.4.3",
-    "semver": "^7.5.4"
+    "decimal.js": "10.4.3",
+    "semver": "7.5.4"
   }
 }

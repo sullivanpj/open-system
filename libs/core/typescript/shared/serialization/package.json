@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "type": "commonjs",
   "dependencies": {
-    "decimal.js": "^10.4.3",
-    "superjson": "^1.13.1"
+    "decimal.js": "10.4.3",
+    "superjson": "1.13.1"
   }
 }
