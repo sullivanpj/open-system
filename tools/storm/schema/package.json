@@ -39,8 +39,8 @@
   },
   "dependencies": {
     "@prisma/client": "^5.2.0",
-    "@vscode/vsce": "^2.20.1",
-    "chalk": "4.1.0",
+    "@vscode/vsce": "^2.21.0",
+    "chalk": "4.1.2",
     "langium": "1.2.1",
     "langium-cli": "1.2.1",
     "ora": "^7.0.1",
