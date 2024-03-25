@@ -12,7 +12,7 @@
     "@asyncapi/generator-filters": "^2.1.0",
     "@asyncapi/generator-react-sdk": "^0.2.23",
     "@asyncapi/parser": "^2.0.0",
-    "yaml": "^2.0.0"
+    "yaml": "^2.4.1"
   },
   "generator": {
     "renderer": "react",

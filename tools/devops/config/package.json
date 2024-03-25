@@ -2,12 +2,12 @@
   "name": "@open-system/tools-devops-config",
   "version": "0.0.1",
   "dependencies": {
-    "@commitlint/config-conventional": "^17.6.1",
-    "@commitlint/config-nx-scopes": "^17.6.4",
+    "@commitlint/config-conventional": "^17.7.0",
+    "@commitlint/config-nx-scopes": "^17.8.1",
     "eslint-plugin-tsdoc": "^0.2.17",
     "prettier": "2.8.8",
     "prettier-plugin-packagejson": "^2.4.5",
-    "prettier-plugin-tailwindcss": "^0.3.0",
+    "prettier-plugin-tailwindcss": "^0.5.0",
     "shell-quote": "^1.8.1",
     "stacktracey": "^2.1.8"
   }
