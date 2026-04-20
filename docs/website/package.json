@@ -2,11 +2,11 @@
   "name": "@open-system/docs-website",
   "version": "0.0.1",
   "dependencies": {
-    "@docusaurus/core": "^2.4.1",
-    "@docusaurus/module-type-aliases": "^2.4.1",
-    "@docusaurus/preset-classic": "^2.4.1",
-    "docusaurus-plugin-react-docgen-typescript": "^1.1.0",
-    "docusaurus-plugin-typedoc": "^0.19.2",
-    "react-docgen-typescript": "^2.2.2"
+    "@docusaurus/core": "2.4.1",
+    "@docusaurus/module-type-aliases": "2.4.1",
+    "@docusaurus/preset-classic": "2.4.1",
+    "docusaurus-plugin-react-docgen-typescript": "1.1.0",
+    "docusaurus-plugin-typedoc": "0.19.2",
+    "react-docgen-typescript": "2.2.2"
   }
 }

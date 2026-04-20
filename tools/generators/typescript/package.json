@@ -6,12 +6,12 @@
   "typings": "./index.d.ts",
   "dependencies": {
     "@nx/devkit": "16.7.0",
-    "fs-extra": "^11.1.1",
-    "fsevents": "^2.3.3",
-    "glob": "^10.3.3",
-    "lodash": "^4.17.21",
-    "path-scurry": "^1.10.1",
-    "pnpapi": "^0.0.0"
+    "fs-extra": "11.1.1",
+    "fsevents": "2.3.3",
+    "glob": "10.3.4",
+    "lodash": "4.17.21",
+    "path-scurry": "1.10.1",
+    "pnpapi": "0.0.0"
   },
   "devDependencies": {
     "@types/fs-extra": "^11.0.1",

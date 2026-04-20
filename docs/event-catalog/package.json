@@ -2,8 +2,8 @@
   "name": "@open-system/docs-event-catalog",
   "version": "0.0.1",
   "dependencies": {
-    "@eventcatalog/core": "^1.0.1",
-    "@eventcatalog/plugin-doc-generator-asyncapi": "^0.3.5",
-    "@eventcatalog/types": "^0.4.2"
+    "@eventcatalog/core": "1.0.5",
+    "@eventcatalog/plugin-doc-generator-asyncapi": "0.3.5",
+    "@eventcatalog/types": "0.4.2"
   }
 }

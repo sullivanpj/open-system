@@ -5,16 +5,16 @@
   "main": "./index.js",
   "typings": "./index.d.ts",
   "dependencies": {
-    "@asyncapi/generator": "^1.10.14",
-    "@esbuild-plugins/node-globals-polyfill": "^0.2.3",
+    "@asyncapi/generator": "1.11.0",
+    "@esbuild-plugins/node-globals-polyfill": "0.2.3",
     "@nx/devkit": "16.7.0",
-    "@types/fs-extra": "^11.0.1",
-    "esbuild": "^0.18.11",
-    "esbuild-plugin-polyfill-node": "^0.3.0",
-    "fs-extra": "^11.1.1",
-    "fsevents": "^2.3.3",
-    "glob": "^10.3.3",
-    "lodash": "^4.17.21",
-    "svgo": "^3.0.2"
+    "@types/fs-extra": "11.0.1",
+    "esbuild": "0.18.20",
+    "esbuild-plugin-polyfill-node": "0.3.0",
+    "fs-extra": "11.1.1",
+    "fsevents": "2.3.3",
+    "glob": "10.3.4",
+    "lodash": "4.17.21",
+    "svgo": "3.0.2"
   }
 }

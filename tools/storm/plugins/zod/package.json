@@ -2,9 +2,9 @@
   "name": "@open-system/tools-storm-plugins-zod",
   "version": "0.0.1",
   "dependencies": {
-    "@prisma/generator-helper": "^5.2.0",
-    "path": "^0.12.7",
-    "semver": "^7.5.4",
-    "ts-morph": "^19.0.0"
+    "@prisma/generator-helper": "5.2.0",
+    "path": "0.12.7",
+    "semver": "7.5.4",
+    "ts-morph": "19.0.0"
   }
 }
