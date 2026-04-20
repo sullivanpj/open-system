@@ -2,7 +2,7 @@
   "name": "@open-system/core-server-graphql",
   "version": "0.0.1",
   "dependencies": {
-    "@envelop/core": "^4.0.0",
+    "@envelop/core": "^4.0.1",
     "@envelop/disable-introspection": "^5.0.1",
     "@envelop/extended-validation": "^3.0.1",
     "@envelop/filter-operation-type": "^5.0.1",
