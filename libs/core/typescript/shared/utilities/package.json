@@ -2,9 +2,9 @@
   "name": "@open-system/core-shared-utilities",
   "version": "0.0.1",
   "dependencies": {
-    "@js-temporal/polyfill": "^0.4.4",
-    "stacktracey": "^2.1.8",
-    "type-detect": "^4.0.8"
+    "@js-temporal/polyfill": "0.4.4",
+    "stacktracey": "2.1.8",
+    "type-detect": "4.0.8"
   },
   "devDependencies": {
     "@types/type-detect": "^4.0.1"

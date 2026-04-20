@@ -2,6 +2,6 @@
   "name": "@open-system/core-server-kafka",
   "version": "0.0.1",
   "dependencies": {
-    "kafkajs": "^2.2.4"
+    "kafkajs": "2.2.4"
   }
 }

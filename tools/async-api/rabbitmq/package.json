@@ -9,10 +9,10 @@
     "generate:examples": ""
   },
   "dependencies": {
-    "@asyncapi/generator-filters": "^2.1.0",
-    "@asyncapi/generator-react-sdk": "^0.2.23",
-    "@asyncapi/parser": "^2.0.0",
-    "yaml": "^2.0.0"
+    "@asyncapi/generator-filters": "2.1.0",
+    "@asyncapi/generator-react-sdk": "0.2.25",
+    "@asyncapi/parser": "2.1.0",
+    "yaml": "2.3.2"
   },
   "generator": {
     "renderer": "react",

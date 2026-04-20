@@ -2,7 +2,7 @@
   "name": "@open-system/contact-server-attachment",
   "version": "0.0.1",
   "dependencies": {
-    "@envelop/types": "^4.0.0",
-    "drizzle-orm": "^0.28.5"
+    "@envelop/types": "4.0.1",
+    "drizzle-orm": "0.28.6"
   }
 }
