@@ -5,7 +5,7 @@
     "@cloudflare/d1": "^1.4.1",
     "@cloudflare/workers-types": "^4.20230904.0",
     "@envelop/types": "^4.0.0",
-    "@nx/devkit": "16.7.0",
+    "@nx/devkit": "16.7.4",
     "drizzle-orm": "^0.28.5",
     "pnpapi": "^0.0.0",
     "wrangler": "^3.9.0"
