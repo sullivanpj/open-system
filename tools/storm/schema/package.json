@@ -34,8 +34,8 @@
     "storm": "bin/cli"
   },
   "devDependencies": {
-    "@prisma/internals": "^5.1.1",
-    "@types/vscode": "^1.81.0"
+    "@prisma/internals": "5.2.0",
+    "@types/vscode": "1.82.0"
   },
   "dependencies": {
     "@prisma/client": "^5.2.0",

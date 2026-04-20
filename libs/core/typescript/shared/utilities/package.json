@@ -7,6 +7,6 @@
     "type-detect": "^4.0.8"
   },
   "devDependencies": {
-    "@types/type-detect": "^4.0.1"
+    "@types/type-detect": "4.0.1"
   }
 }

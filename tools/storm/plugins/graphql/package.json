@@ -12,6 +12,6 @@
     "ts-morph": "^19.0.0"
   },
   "devDependencies": {
-    "drizzle-kit": "^0.19.13"
+    "drizzle-kit": "0.19.13"
   }
 }
