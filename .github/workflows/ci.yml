@@ -38,9 +38,9 @@ jobs:
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
 
       - name: Setup pnpm
-        uses: pnpm/action-setup@v2.2.4
+        uses: pnpm/action-setup@v2.4.1
         with:
-          version: 8
+          version: 8.15.9
 
       - uses: actions/setup-node@v3
         with:
