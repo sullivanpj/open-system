@@ -17,10 +17,10 @@ runs:
       with:
         node-version: ${{ inputs.node-version }}
 
-    - uses: pnpm/action-setup@v2.2.4
+    - uses: pnpm/action-setup@v2.4.1
       id: pnpm-install
       with:
-        version: 8.6.10
+        version: 8.15.9
         run_install: false
 
     - name: Get pnpm store directory
