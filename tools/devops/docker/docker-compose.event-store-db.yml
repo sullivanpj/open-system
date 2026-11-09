@@ -43,7 +43,7 @@ services:
   #######################################################
   eventstore.db:
     container_name: eventstore.db
-    image: eventstore/eventstore:22.10.2-buster-slim
+    image: eventstore/eventstore:22.10.3-buster-slim
     ports:
       - "1113:1113"
       - "2113:2113"
